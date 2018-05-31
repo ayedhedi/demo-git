@@ -1,6 +1,6 @@
 {
   "name": "demo-git",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A project to play with git and npm standard-version",
   "main": "index.js",
   "scripts": {
